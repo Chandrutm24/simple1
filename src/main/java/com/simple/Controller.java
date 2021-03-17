@@ -9,7 +9,7 @@ public class Controller {
 	@GetMapping("/simpletest")
 	public String test()
 	{
-		return "Simple Test Spring boot app1";
+		return "Simple Test Spring boot app1 after changes";
 	}
 
 }
